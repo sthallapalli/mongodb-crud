@@ -1,0 +1,8 @@
+jpmc:
+    mongo:
+        collectionName: cars
+        databaseName: test
+        host: localhost
+        password: test
+        port: 27017
+        userName: test
