@@ -3,7 +3,7 @@ package com.stallapp.car.dao.impl;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Repository;
 
-import com.jpmorgan.car.model.QCar;
+import com.stallapp.car.model.QCar;
 import com.querydsl.core.types.Predicate;
 import com.stallapp.car.dao.CarDao;
 import com.stallapp.car.model.Car;

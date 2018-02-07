@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 
 public class CarIndexConfigImpl implements CarIndexConfig {
 
-	@Value("${jpmc.mongo.collectionName}")
+	@Value("${stallapp.mongo.collectionName}")
 	private String collectionName;
 
 	public String collectionName() {

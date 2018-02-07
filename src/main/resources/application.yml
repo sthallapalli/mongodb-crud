@@ -1,4 +1,4 @@
-jpmc:
+stallapp:
     mongo:
         collectionName: cars
         databaseName: test
